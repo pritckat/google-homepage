@@ -19,3 +19,15 @@ main {
     align-items: center;
     justify-content: center;
 }
+
+nav {
+    position: fixed;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    padding-top: 200px;
+}
+
