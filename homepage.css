@@ -13,3 +13,9 @@ main {
     height: 40px;
     border-color: dfe1e5;
 }
+
+#buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
